@@ -11,6 +11,9 @@ int main()
     cin>>v2;
     r=v1+v2;
     cout<<"Resultado es:"<<r;
+    cout<<"mi primera edicion:"<<endl;
+
+
 
 
 
